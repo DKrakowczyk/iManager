@@ -16,19 +16,19 @@ Aplikacja dostępna jest pod adresem: [http://i-manager.ct8.pl](http://i-manager
 ### Działanie aplikacji i podstawowe funkcje
   
 #### Rejestracja 
-![enter image description here](https://github.com/DKrakowczyk/iManager/blob/master/docs-gifs/dashboard.gif?raw=true)
+![enter image description here](https://github.com/KonradWasiak/iManager/blob/master/Gifs/rejestracja.gif?raw=true)
 #### Logowanie i Dashboard
 ![enter image description here](https://github.com/DKrakowczyk/iManager/blob/master/docs-gifs/dashboard.gif?raw=true)
 
 #### Personalizacja konta
-![enter image description here](https://github.com/DKrakowczyk/iManager/blob/master/docs-gifs/dashboard.gif?raw=true)
+![enter image description here](https://github.com/KonradWasiak/iManager/blob/master/Gifs/zmianaprofilu.gif?raw=true)
 #### Zadania prywatne
-![enter image description here](https://github.com/DKrakowczyk/iManager/blob/master/docs-gifs/dashboard.gif?raw=true)
+![enter image description here](https://github.com/KonradWasiak/iManager/blob/master/Gifs/prywatnezadanie.gif?raw=true)
 #### Notatki
-![enter image description here](https://github.com/DKrakowczyk/iManager/blob/master/docs-gifs/dashboard.gif?raw=true)
+![enter image description here](https://github.com/KonradWasiak/iManager/blob/master/Gifs/notatki.gif?raw=true)
 #### Społeczność
-![enter image description here](https://github.com/DKrakowczyk/iManager/blob/master/docs-gifs/dashboard.gif?raw=true)
+![enter image description here](https://github.com/KonradWasiak/iManager/blob/master/Gifs/zaproszenie.gif?raw=true)
 #### Wiadomości
-![enter image description here](https://github.com/DKrakowczyk/iManager/blob/master/docs-gifs/dashboard.gif?raw=true)
+![enter image description here](https://github.com/KonradWasiak/iManager/blob/master/Gifs/wyslaniewiadomosci.gif?raw=true)
 #### Grupy i zadania grupowe
-![enter image description here](https://github.com/DKrakowczyk/iManager/blob/master/docs-gifs/dashboard.gif?raw=true)
+![enter image description here](https://github.com/KonradWasiak/iManager/blob/master/Gifs/grupy.gif?raw=true)
